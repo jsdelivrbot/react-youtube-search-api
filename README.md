@@ -1,6 +1,6 @@
-You can view the project on Heroku
+You can view the project on [Heroku](https://tienp-react-youtube.herokuapp.com/)
 
-To start the program:
+To start the program on your local machine:
 
 npm install
 npm start
@@ -13,11 +13,11 @@ Reactjs
 Youtube API
 Bootstrap
 
-Added back-end
+Back-end also added:
 Nodejs with Express
 
 Sources:
 
-Official documentation: Reactjs, Nodejs, MongoDB, Bootstrap
+Official documentation: Reactjs, Nodejs, Express, Bootstrap
 Google & Stackoverflow
 Udemy React & Redux course
