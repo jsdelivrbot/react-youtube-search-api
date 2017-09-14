@@ -1,3 +1,5 @@
+You can view the project on Heroku
+
 To start the program:
 
 npm install
@@ -11,8 +13,7 @@ Reactjs
 Youtube API
 Bootstrap
 
-Back-end
-MongoDB
+Added back-end
 Nodejs with Express
 
 Sources:
