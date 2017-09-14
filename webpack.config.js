@@ -10,6 +10,14 @@ module.exports = {
     filename: 'public/build/bundle.js',
     sourceMapFilename: 'public/build/bundle.map'
   },
+  plugins: [
+      new webpack.DefinePlugin({
+      'process.env': {
+        NODE_ENV: JSON.stringify('production')
+      }
+      }),
+      new webpack.optimize.UglifyJsPlugin(),
+    ],
   devtool: '#source-map',
   module: {
     loaders:[
