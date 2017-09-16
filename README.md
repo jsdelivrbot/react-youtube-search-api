@@ -1,4 +1,4 @@
-You can view the project on by clicking this [Heroku link](https://tienp-react-youtube.herokuapp.com/)
+You can view the project on by clicking this [Heroku link](https://tienp-react-youtube.herokuapp.com/) (wait a sec)
 
 To start the program on your local machine:
 
