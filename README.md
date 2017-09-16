@@ -8,7 +8,7 @@ To start the program on your local machine:
 
 Technologies used:
 
- * Front-End
+Front-End
  * Reactjs
  * Youtube API
  * Bootstrap
